@@ -30,7 +30,7 @@
     "babel-loader": "^4.2.0",
     "css-loader": "^0.9.1",
     "mocha": "^2.2.1",
-    "react": "*",
+    "react": "15.3.0",
     "react-dom": ">=0.14.0",
     "style-loader": "^0.9.0",
     "webpack": "^1.7.3",
